@@ -2,7 +2,7 @@
 
 ## Working group
 
-- **Chairs:** Artur Hecker (Huawei Technologies, Germany); Cyril Gorlla (CTGT, USA)
+- **Chairs:** <TBD>; 
 - **Mailing list:** TBD — confirm the appropriate mailing list
 - **Meetings:** TBD
 
